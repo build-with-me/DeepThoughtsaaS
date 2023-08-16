@@ -8,7 +8,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>44c0e3ed-f75c-45cf-99df-1d18b9a68172</UserSecretsId>
+    <UserSecretsId>deep-thoughts</UserSecretsId>
   </PropertyGroup>
 
 </Project>
